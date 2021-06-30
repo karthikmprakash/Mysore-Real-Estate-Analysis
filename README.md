@@ -14,5 +14,5 @@ The aim was to analyse the real estate market and predict the house prices in My
 * `gridsearchcv` was performed and was inferred that decision tree algorithm performed the best among `linear, lasso, decisionTree` algorithms. Later, `randomforestRegressor` was used to increase the accuracy.
 
 ### REFERENCES
-[](https://www.geeksforgeeks.org/random-forest-regression-in-python/)
-[](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html) 
+https://www.geeksforgeeks.org/random-forest-regression-in-python/
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
